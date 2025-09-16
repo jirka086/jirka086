@@ -7,11 +7,11 @@
 
 - 🌱 ted se učím **PHP, javascript**
 
-- 👨‍💻 All of my projects are available at [https://jirka086.is-a.dev](https://jirka086.is-a.dev)
+- 👨‍💻 vše moje projekty dostupné na [https://jirka086.is-a.dev](https://jirka086.is-a.dev)
 
 - 💬 zeptej se mě na **HTML, CSS**
 
-- 📫 How to reach me **jirka086@action-gaming.eu**
+- 📫 kontakt email **jirka086@action-gaming.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
