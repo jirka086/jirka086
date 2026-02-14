@@ -3,15 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jirka086" alt="jirka086" /></a> </p>
 
-- 🔭 ted pracují na [můj projekt web](https://github.com/jirka086/jirka086.github.io/tree/main)
+- 🔭 ted pracují na Nautixrp - web pro fivem server
 
 - 🌱 ted se učím **PHP, javascript**
 
-- 👨‍💻 vše moje projekty dostupné na [https://jirka086.is-a.dev](https://jirka086.is-a.dev)
+- 👨‍💻 moje portfolio [https://jirka086.is-a.dev](https://jirka086.is-a.dev)
 
 - 💬 zeptej se mě na **HTML, CSS**
 
-- 📫 kontakt email **jirka086@action-gaming.eu**
+- 📫 kontakt email **contact@jirka086-is-a.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,7 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jirka086&show_icons=true&locale=en&layout=compact" alt="jirka086" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jirka086&show_icons=true&locale=en" alt="jirka086" /></p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/https://ko-fi.com/jirka086"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/jirka086" /></a></p><br><br>
 
